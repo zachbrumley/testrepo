@@ -1,0 +1,7 @@
+C:\Users\cockus fattus\source\repos\ContactsApp\ContactsApp\bin\Debug\ContactsApp.exe.config
+C:\Users\cockus fattus\source\repos\ContactsApp\ContactsApp\bin\Debug\ContactsApp.exe
+C:\Users\cockus fattus\source\repos\ContactsApp\ContactsApp\bin\Debug\ContactsApp.pdb
+C:\Users\cockus fattus\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csproj.AssemblyReference.cache
+C:\Users\cockus fattus\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\cockus fattus\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.exe
+C:\Users\cockus fattus\source\repos\ContactsApp\ContactsApp\obj\Debug\ContactsApp.pdb
