@@ -1,0 +1,7 @@
+C:\Users\cockus fattus\OneDrive\Desktop\important shit\KIOSKPROJECT\KIOSKPROJECT\bin\Debug\KIOSKPROJECT.exe.config
+C:\Users\cockus fattus\OneDrive\Desktop\important shit\KIOSKPROJECT\KIOSKPROJECT\bin\Debug\KIOSKPROJECT.exe
+C:\Users\cockus fattus\OneDrive\Desktop\important shit\KIOSKPROJECT\KIOSKPROJECT\bin\Debug\KIOSKPROJECT.pdb
+C:\Users\cockus fattus\OneDrive\Desktop\important shit\KIOSKPROJECT\KIOSKPROJECT\obj\Debug\KIOSKPROJECT.csproj.AssemblyReference.cache
+C:\Users\cockus fattus\OneDrive\Desktop\important shit\KIOSKPROJECT\KIOSKPROJECT\obj\Debug\KIOSKPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\cockus fattus\OneDrive\Desktop\important shit\KIOSKPROJECT\KIOSKPROJECT\obj\Debug\KIOSKPROJECT.exe
+C:\Users\cockus fattus\OneDrive\Desktop\important shit\KIOSKPROJECT\KIOSKPROJECT\obj\Debug\KIOSKPROJECT.pdb
